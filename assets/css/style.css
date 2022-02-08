@@ -76,6 +76,8 @@ html {
     margin: 18px 0px 5px;
     border: none;
     cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
 }
 .btn:hover {
     color: black;
@@ -184,14 +186,14 @@ html {
     color: black;
 }
 
-.chicago,
+/* .chicago, */
 #slider {
-    width: 100%;
-    margin-top: 23px;
+    /* width: 100%;
+    margin-top: 23px; */
     position: relative;
-    /* margin-top: 46px;
-    padding-top: 50%; */
-    /* background: url('/assets/img/slider/chicago-slider.jpg') top center / cover no-repeat; */
+    margin-top: 46px;
+    padding-top: 50%;
+    background: url('../img/slider/chicago-slider.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
