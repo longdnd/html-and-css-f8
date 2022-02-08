@@ -186,6 +186,7 @@ html {
     color: black;
 }
 
+<<<<<<< HEAD
 /* .chicago, */
 #slider {
     /* width: 100%;
@@ -194,6 +195,16 @@ html {
     margin-top: 46px;
     padding-top: 50%;
     background: url('../img/slider/chicago-slider.jpg') top center / cover no-repeat;
+=======
+.chicago,
+#slider {
+    width: 100%;
+    margin-top: 23px;
+    position: relative;
+    /* margin-top: 46px;
+    padding-top: 50%; */
+    /* background: url('/assets/img/slider/chicago-slider.jpg') top center / cover no-repeat; */
+>>>>>>> 1ebf9439055fd536c32051c7072cd30548dab59a
 }
 
 #slider .text-content {
