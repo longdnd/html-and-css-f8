@@ -207,13 +207,15 @@ html {
 }
 
 #slider .text-heading {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 24px;
 }
 
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
+    font-weight: 550;
+    text-shadow: 0 0 3px black;
 }
 
 #content {
